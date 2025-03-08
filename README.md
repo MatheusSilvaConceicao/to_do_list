@@ -34,12 +34,12 @@ O código é estruturado em funções para facilitar a manutenção e a leitura:
 
 2. **Navegue até o diretório do projeto:**
 
+    ```bash
     cd to-do-list
 
 3. **Execute o script Python:**
 
+    ```bash
     python todo_list.py
 
 ---
-
-Es
